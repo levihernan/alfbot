@@ -1,0 +1,22 @@
+Title: Tambien
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: También te puede interesar
+
+----
+
+Texthtml: 
+
+<p ><a href="">Quisque ut mollis ante</a></p>
+<p><a href="">Cras vulputate mauris a tincidunt tempus</a></p>
+<p><a href="">Aliquam in diam neque</a></p>
+<p><a href="">Nulla in quam sodales</a></p>

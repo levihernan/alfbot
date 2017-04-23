@@ -1,0 +1,39 @@
+title: Celda
+
+pages: false
+files: false
+
+options:
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  class: class
+
+  textcolor: textcolor
+
+  campo1:
+      label: Campo 1
+      type: text
+      icon: th
+
+  campo2:
+      label: Campo 2
+      type: text
+      icon: th
+
+  campo3:
+      label: Campo 3
+      type: text
+      icon: th
+
+  campo4:
+      label: Campo 4
+      type: text
+      icon: th
+
+  campo5:
+      label: Campo 5
+      type: text
+      icon: th

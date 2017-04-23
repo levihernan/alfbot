@@ -1,0 +1,21 @@
+Title: Dictadora
+
+----
+
+Titulo: Información destacada
+
+----
+
+Texthtml: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt nulla, nec porta nisl. Fusce lorem sem, vehicula sed pellentesque
+
+----
+
+Background: alf2.jpg
+
+----
+
+Class: bg-info
+
+----
+
+Footer: 

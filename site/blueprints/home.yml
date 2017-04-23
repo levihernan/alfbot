@@ -1,0 +1,16 @@
+title: Home
+
+pages: section
+
+fields:
+  title: kirbytitle
+
+  intro:
+    label: Intro
+    type:  textarea
+
+  text:
+    label: Text
+    type:  textarea
+  
+  background: background

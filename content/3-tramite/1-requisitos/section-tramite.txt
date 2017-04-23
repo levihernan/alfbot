@@ -1,0 +1,23 @@
+Title: Requisitos
+
+----
+
+Identificador: requisitos
+
+----
+
+Class: 
+
+----
+
+Titulo: Requisitos
+
+----
+
+Texthtml: 
+
+<p><ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+<li>Donec posuere elit quis lectus mollis, vitae rutrum felis tristique. </li>
+<li>Sed tincidunt diam eu ornare varius. Aliquam sed mi orci. </li>
+</ul>

@@ -1,0 +1,21 @@
+title: panelFoto
+
+pages: false
+files: true
+
+options:
+  delete: true
+  template: true
+
+fields:
+  title: kirbytitle
+
+  class: class
+
+  bajada: titulo
+
+  description: description
+
+  urlimagen: imagen
+
+  linkurl: linkurl

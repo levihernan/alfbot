@@ -1,0 +1,30 @@
+title: Slider
+
+pages: slider
+files: false
+
+options:
+  preview: false
+  status: true
+  template: true
+  url: false
+  delete: true
+
+fields:
+
+  identificador: id
+
+  titulo: titulo
+
+  description: description
+
+  class: class
+
+  cantidadSlider:
+    label: Cantidad de imagenes en slider
+    type: text
+    validate:
+      min: 1
+      max: 6
+      - alphanum
+    default: 3

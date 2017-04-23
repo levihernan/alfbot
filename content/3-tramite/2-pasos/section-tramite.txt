@@ -1,0 +1,23 @@
+Title: Pasos
+
+----
+
+Identificador: pasosASeguir
+
+----
+
+Class: 
+
+----
+
+Titulo: Pasos a seguir
+
+----
+
+Texthtml: 
+
+<p><ol>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere elit quis lectus mollis, <strong>vitae rutrum felis tristique</strong>. Sed tincidunt diam eu ornare varius.  </li>
+<li>Aliquam sed mi orci. Praesent finibus quam et nisi dignissim interdum. Phasellus elit odio, efficitur nec molestie finibus, feugiat at massa.  </li>
+<li>Quisque ut mollis ante. Cras vulputate mauris a tincidunt tempus. Aliquam in diam neque. Nulla in quam sodales, varius purus vulputate, iaculis dolor.</li>
+</ol>

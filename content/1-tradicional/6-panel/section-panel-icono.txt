@@ -1,0 +1,21 @@
+Title: Panel
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Paneles con ícono
+
+----
+
+Texthtml: 
+
+----
+
+Columns: 4

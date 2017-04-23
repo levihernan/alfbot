@@ -1,0 +1,21 @@
+Title: 2
+
+----
+
+Class: 
+
+----
+
+Textcolor: text-gray
+
+----
+
+Number: 50
+
+----
+
+Small: % de lorem
+
+----
+
+Description: Quisque lobortis tincidunt nulla, nec porta nisl

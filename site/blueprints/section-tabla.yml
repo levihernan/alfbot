@@ -1,0 +1,56 @@
+title: Tabla
+
+pages: tcell
+files: false
+
+options:
+  preview: false
+  status: true
+  template: true
+  url: false
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  identificador: id
+
+  class: class
+
+  titulo: titulo
+
+  columns:
+    label: Cantidad de columnas
+    type: text
+    validate:
+      min: 1
+      max: 5
+      - alphanum
+    default: 5
+    placeholder: 1 - 5
+
+
+  encabezado1:
+    label: Encabezado 1
+    type: text
+    icon: header
+
+  encabezado2:
+    label: Encabezado 2
+    type: text
+    icon: header
+
+  encabezado3:
+    label: Encabezado 3
+    type: text
+    icon: header
+
+  encabezado4:
+    label: Encabezado 4
+    type: text
+    icon: header
+
+  encabezado5:
+    label: Encabezado 5
+    type: text
+    icon: header

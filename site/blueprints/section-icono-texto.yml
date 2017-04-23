@@ -1,0 +1,24 @@
+title: Icono Texto
+
+pages: icono-texto
+files: true
+
+options:
+  preview: false
+  status: true
+  template: false
+  url: false
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  identificador: id
+
+  class: class
+
+  titulo: titulo
+
+  texthtml: texthtml
+
+  columns: columns

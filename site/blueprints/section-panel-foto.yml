@@ -1,0 +1,24 @@
+title: Panel Foto
+
+pages: panel-foto
+files: true
+
+options:
+  preview: false
+  status: true
+  template: true
+  url: false
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  identificador: id
+
+  class: class
+
+  titulo: titulo
+
+  texthtml: texthtml
+
+  columns: columns

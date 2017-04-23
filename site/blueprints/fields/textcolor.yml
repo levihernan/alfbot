@@ -1,0 +1,22 @@
+label: TextColor
+type: multiselect
+required: false
+search: true
+icon: paint-brush
+options:
+  text-primary: text-primary
+  text-secondary: text-secondary
+  text-success: text-success
+  text-warning: text-warning
+  text-danger: text-danger
+  text-muted: text-muted
+  text-gray: text-gray
+  text-tomate: text-tomate
+  text-fucsia: text-fucsia
+  text-arandano: text-arandano
+  text-uva: text-uva
+  text-cielo: text-cielo
+  text-verdin: text-verdin
+  text-lima: text-lima
+  text-maiz: text-maiz
+help: <a href="http://www.produccion.gob.ar/wp-content/uploads/2017/03/colores.jpg" target="blank"> Paleta Colores > </a>

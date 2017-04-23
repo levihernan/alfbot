@@ -1,0 +1,27 @@
+title: iconoTexto
+
+pages: false
+files: true
+
+options:
+  delete: true
+  template: true
+
+fields:
+  title: kirbytitle
+
+  class: class
+
+  urlicono:
+      label: URL Icono Panel
+      type: text
+      icon: link
+
+  fontawesome: fontawesome
+
+  materialicon: materialicon
+
+  description:
+    label: Descripción
+    type: textarea
+    icon: align-justify

@@ -1,0 +1,21 @@
+Title: 4
+
+----
+
+Class: 
+
+----
+
+Bajada: 
+
+----
+
+Description: <small>1 de Enero de 2017</small><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt nulla, nec porta nisl.
+
+----
+
+Urlimagen: panel.jpg
+
+----
+
+Linkurl: 

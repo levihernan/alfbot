@@ -1,0 +1,21 @@
+Title: Columnas
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Columnas
+
+----
+
+Columns: 2
+
+----
+
+Description: 

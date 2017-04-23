@@ -1,0 +1,24 @@
+title: Panel
+
+pages: false
+files: false
+
+options:
+  delete: true
+  template: true
+
+fields:
+  title: kirbytitle
+
+  class: class
+
+  header:
+      label: Encabezado
+      type: text
+      icon: header
+
+  bajada: titulo
+
+  description: description
+
+  linkurl: linkurl

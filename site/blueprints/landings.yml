@@ -1,0 +1,15 @@
+title: Carpeta
+
+pages:
+  template:
+    - landing
+    - landings
+
+files: false
+
+options:
+  preview: false
+  status: true
+  template: false
+  url: false
+  delete: false

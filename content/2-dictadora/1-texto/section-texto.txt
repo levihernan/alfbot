@@ -1,0 +1,17 @@
+Title: Texto
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Texto plano
+
+----
+
+Texthtml: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt nulla, nec porta nisl. Fusce lorem sem, vehicula sed pellentesque et, posuere non lorem. Nullam tempus non nibh at feugiat. Donec velit massa, cursus sit amet arcu sit amet, pharetra condimentum nunc. Curabitur mauris quam, lobortis quis nulla eu, viverra pulvinar dolor. Integer at nisi et tortor gravida laoreet. Nunc eleifend sapien vel urna sodales, sed maximus diam molestie. Praesent consequat, purus quis egestas rutrum, magna lorem tincidunt justo, id laoreet massa odio quis mauris. Maecenas sed vehicula metus.

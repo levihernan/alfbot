@@ -1,0 +1,25 @@
+title: Boton
+
+pages: false
+files: false
+
+options:
+  delete: true
+  template: true
+
+fields:
+  title: kirbytitle
+  
+  title:
+    label: Titulo
+    type:  text
+    icon: font
+
+  class: class
+
+  text:
+    label: Texto
+    type: textarea
+    icon: align-justify
+
+  linkurl: linkurl

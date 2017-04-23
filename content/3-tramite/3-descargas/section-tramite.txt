@@ -1,0 +1,21 @@
+Title: Descargas
+
+----
+
+Identificador: descargas
+
+----
+
+Class: 
+
+----
+
+Titulo: Descargas
+
+----
+
+Texthtml: 
+
+<p ><i class="fa fa-list text-muted"> </i> <a href="">Lorem ipsum</a> </p>
+              <p><i class="fa fa-align-justify text-muted"> </i> <a href="">Dolor sit amet</a> </p>
+              <p><i class="fa fa-download text-muted"> </i> <a href="">Consectetur adipiscing elit</a> </p>

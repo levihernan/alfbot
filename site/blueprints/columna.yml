@@ -1,0 +1,16 @@
+title: columna
+
+pages: false
+files: false
+
+options:
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  class: class
+
+  bajada: titulo
+
+  texthtml: texthtml

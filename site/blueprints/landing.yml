@@ -1,0 +1,37 @@
+title: Nota
+
+pages:
+  template:
+    - section-boton
+    - section-infografia
+    - section-numero
+    - section-panel
+    - section-panel-foto
+    - section-panel-icono
+    - section-icono-texto
+    - section-texto
+    - section-texto-imagen
+    - section-video
+    - section-quote
+    - section-mapa
+    - section-slider
+    - section-tabla
+    - section-columnas
+
+files: true
+
+options:
+  preview: true
+  status: true
+  template: true
+  url: true
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  titulo: titulo
+
+  texthtml: texthtml
+
+  background: background

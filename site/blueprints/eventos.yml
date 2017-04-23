@@ -1,0 +1,12 @@
+title: Eventos
+
+pages: evento
+
+files: false
+
+options:
+  preview: false
+  status: true
+  template: false
+  url: false
+  delete: false

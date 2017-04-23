@@ -1,0 +1,14 @@
+title: Sección
+
+pages: landing
+
+fields:
+  title: kirbytitle
+
+  titulo: titulo
+
+  description: description
+
+  texthtml: texthtml
+
+  background: background

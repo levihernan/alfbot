@@ -1,0 +1,30 @@
+title: Numero
+
+pages: false
+files: false
+
+options:
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  class: class
+
+  textcolor: textcolor
+
+  number:
+      label: Cifra
+      type:  text
+      icon: hashtag
+
+  small:
+      label: Acompañamiento de Cifra
+      type: text
+      placeholder: Por ejemplo 600 '%' <- el % es acompañamiento
+      icon: percent
+
+  description:
+    label: Descripción
+    type: textarea
+    icon: align-justify

@@ -1,0 +1,21 @@
+Title: Tramite
+
+----
+
+Titulo: Pagina con navegación
+
+----
+
+Titular: Donec posuere elit quis lectus mollis, vitae rutrum felis tristique
+
+----
+
+Texthtml: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere elit quis lectus mollis, vitae rutrum felis tristique. Sed tincidunt diam eu ornare varius. Aliquam sed mi orci. Praesent finibus quam et nisi dignissim interdum. Phasellus elit odio, efficitur nec molestie finibus, feugiat at massa. Quisque ut mollis ante. Cras vulputate mauris a tincidunt tempus. Aliquam in diam neque. Nulla in quam sodales, varius purus vulputate, iaculis dolor.
+
+----
+
+Nav: sidenav
+
+----
+
+Footer: 

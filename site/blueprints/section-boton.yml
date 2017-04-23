@@ -1,0 +1,24 @@
+title: Boton
+
+pages: boton
+files: false
+
+options:
+  preview: false
+  status: true
+  template: true
+  url: false
+  delete: true
+
+fields:
+  title: kirbytitle
+  
+  identificador: id
+
+  class: class
+
+  titulo: titulo
+
+  texthtml: texthtml
+
+  columns: columns

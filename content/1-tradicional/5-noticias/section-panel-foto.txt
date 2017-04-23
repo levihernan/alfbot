@@ -1,0 +1,21 @@
+Title: Noticias
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Paneles de noticias
+
+----
+
+Texthtml: 
+
+----
+
+Columns: 4

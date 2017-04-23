@@ -1,0 +1,21 @@
+Identificador: 
+
+----
+
+Titulo: Slider de fotos
+
+----
+
+Description: 
+
+----
+
+Class: 
+
+----
+
+Cantidadslider: 3
+
+----
+
+Title: Slider

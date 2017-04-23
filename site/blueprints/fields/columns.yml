@@ -1,0 +1,7 @@
+label: Cantidad de columnas
+type: text
+validate:
+  min: 1
+  max: 4
+  - alphanum
+default: 3

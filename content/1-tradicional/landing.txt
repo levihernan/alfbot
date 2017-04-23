@@ -1,0 +1,21 @@
+Title: Tradicional
+
+----
+
+Titulo: Página tradicional
+
+----
+
+Texthtml: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt nulla, nec porta nisl. Fusce lorem sem, vehicula sed pellentesque
+
+----
+
+Background: panel.jpg
+
+----
+
+Class: 
+
+----
+
+Footer: 

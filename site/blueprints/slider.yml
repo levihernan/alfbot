@@ -1,0 +1,17 @@
+title: slider
+
+pages: false
+files: true
+
+options:
+  delete: true
+
+fields:
+
+  identificador: id
+
+  class: class
+
+  description: description
+
+  linkurl: imagen

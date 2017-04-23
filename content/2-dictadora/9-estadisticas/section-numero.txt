@@ -1,0 +1,17 @@
+Title: Estadisticas
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Estadísticas destacadas
+
+----
+
+Columns: 3

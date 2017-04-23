@@ -1,0 +1,14 @@
+title: Footer
+
+pages: false
+files: false
+
+fields:
+  title: kirbytitle
+
+  text:
+    label: Text
+    type:  text
+    icon: font
+
+  linkurl: linkurl

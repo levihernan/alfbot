@@ -1,0 +1,4 @@
+label: ID
+type: text
+placeholder: idObjeto
+help: No usar espacios!

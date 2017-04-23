@@ -1,0 +1,21 @@
+Title: 2
+
+----
+
+Class: bg-success, text-center
+
+----
+
+Urlicono: 
+
+----
+
+Fontawesome: fa-gear
+
+----
+
+Materialicon: 
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt nulla, nec porta nisl. Fusce lorem sem, vehicula sed pellentesque et, posuere non lorem.

@@ -1,0 +1,21 @@
+Title: Formulario
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Formulario de contacto
+
+----
+
+Description: 
+
+----
+
+Columns: 2

@@ -1,0 +1,21 @@
+Title: Iconos
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Iconos con texto
+
+----
+
+Texthtml: 
+
+----
+
+Columns: 4

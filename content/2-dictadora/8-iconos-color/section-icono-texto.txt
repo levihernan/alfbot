@@ -1,0 +1,21 @@
+Title: Iconos color
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Iconos con texto color
+
+----
+
+Texthtml: 
+
+----
+
+Columns: 4

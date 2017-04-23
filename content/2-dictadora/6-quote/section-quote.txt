@@ -1,0 +1,17 @@
+Title: Quote
+
+----
+
+Identificador: 
+
+----
+
+Class: bg-success
+
+----
+
+Cita: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt nulla, nec porta nisl. Fusce lorem sem, vehicula sed pellentesque et, posuere non lorem.
+
+----
+
+Autor: Julio César

@@ -1,0 +1,24 @@
+Title: Video
+
+----
+
+Identificador: 
+
+----
+
+Class: bg-info
+
+----
+
+Titulo: Video con texto
+
+----
+
+Texthtml: 
+
+<h4>Subtítulo</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tincidunt nulla, nec porta nisl. Fusce lorem sem, vehicula sed pellentesque et, posuere non lorem.
+
+----
+
+Videourl: 

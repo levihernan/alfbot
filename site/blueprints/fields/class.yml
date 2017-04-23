@@ -1,0 +1,62 @@
+label: Class
+type: multiselect
+required: false
+search: true
+icon: paint-brush
+options:
+  _ : _____Color Fondo_____
+  bg-primary : bg-primary
+  bg-success: bg-success
+  bg-info: bg-info
+  bg-warning: bg-warning
+  bg-danger: bg-danger
+  bg-gray: bg-gray
+  bg-tomate: bg-tomate
+  bg-fucsia: bg-fucsia
+  bg-arandano: bg-arandano
+  bg-uva: bg-uva
+  bg-cielo: bg-cielo
+  bg-verdin: bg-verdin
+  bg-lima: bg-lima
+  bg-maiz: bg-maiz
+  __ : _____Color Texto_____
+  text-primary: text-primary
+  text-secondary: text-secondary
+  text-success: text-success
+  text-warning: text-warning
+  text-danger: text-danger
+  text-muted: text-muted
+  text-gray: text-gray
+  text-tomate: text-tomate
+  text-fucsia: text-fucsia
+  text-arandano: text-arandano
+  text-uva: text-uva
+  text-cielo: text-cielo
+  text-verdin: text-verdin
+  text-lima: text-lima
+  text-maiz: text-maiz
+  ___ : _____Padding_____
+  p-t-0: Padding Top 0
+  p-b-0: Padding Bottom 0
+  p-t-1: Padding Top 1
+  p-b-1: Padding Bottom 1
+  p-t-2: Padding Top 2
+  p-b-2: Padding Bottom 2
+  p-t-3: Padding Top 3
+  p-b-3: Padding Bottom 3
+  ____ : _____Margin_____
+  m-t-0: Margin Top 0
+  m-b-0: Margin Bottom 0
+  m-t-1: Margin Top 1
+  m-b-1: Margin Bottom 1
+  m-t-2: Margin Top 2
+  m-b-2: Margin Bottom 2
+  m-t-3: Margin Top 3
+  m-b-3: Margin Bottom 3
+  _____ : _____Alineacion Texto_____
+  text-left: Texto Izquierda
+  text-center: Texto Centrado
+  text-right: Texto Derecha
+
+
+help: <a href="http://www.produccion.gob.ar/wp-content/uploads/2017/03/colores.jpg" target="blank"> Paleta Colores > </a>

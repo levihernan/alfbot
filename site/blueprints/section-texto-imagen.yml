@@ -1,0 +1,42 @@
+title: Texto con Imagen
+
+pages: false
+files: true
+
+options:
+  preview: false
+  status: true
+  template: true
+  url: false
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  identificador: id
+
+  class: class
+
+  titulo: titulo
+
+  texthtml: texthtml
+
+  urlimagen: imagen
+
+  align:
+    label: Alineación de la Imagen
+    type: text
+    placeholder: i o d
+    validate:
+      in:
+        - i
+        - d
+    help: Izquierda-> i &nbsp;&nbsp; Derecha-> d
+    width: 2/5
+    default: i
+
+  imgclass:
+    label: Class de la imagen
+    type: text
+    placeholder: img-circle
+    width: 3/5

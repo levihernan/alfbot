@@ -1,0 +1,41 @@
+Title: 2
+
+----
+
+Class: 
+
+----
+
+Bajada: 
+
+----
+
+Texthtml: 
+
+<form>
+<div class="row">
+<div class="col-md-12">
+  <div class="form-group">
+    <input class="form-control" type="text" placeholder="Nombre">
+  </div>
+</div>
+<div class="col-md-12">
+  <div class="form-group">
+    <input class="form-control" type="text" placeholder="Apellido">
+  </div>
+</div>
+<div class="col-md-12">
+  <div class="form-group">
+    <input class="form-control" type="text" placeholder="Email">
+  </div>
+</div>
+<div class="col-md-12">
+  <div class="form-group">
+    <input class="form-control" type="text" placeholder="Ciudad">
+  </div>
+</div>
+<div class="col-md-6 col-md-offset-3">
+  <button type="submit" class="btn btn-block btn-primary">Enviar</button>
+</div>
+</div>
+</form>

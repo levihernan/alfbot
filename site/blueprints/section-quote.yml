@@ -1,0 +1,28 @@
+title: Quote
+
+pages: false
+files: false
+
+options:
+  preview: false
+  status: true
+  template: true
+  url: false
+  delete: true
+
+fields:
+  title: kirbytitle
+
+  identificador: id
+
+  class: class
+
+  cita:
+    label: Cita
+    type: textarea
+    icon: quote-right
+
+  autor:
+    label: Autor de la Cita
+    type:  text
+    icon: user-circle-o

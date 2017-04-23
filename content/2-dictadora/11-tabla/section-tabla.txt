@@ -1,0 +1,37 @@
+Title: Tabla
+
+----
+
+Identificador: 
+
+----
+
+Class: 
+
+----
+
+Titulo: Tabla de datos
+
+----
+
+Columns: 5
+
+----
+
+Encabezado1: Lorem
+
+----
+
+Encabezado2: Ipsum
+
+----
+
+Encabezado3: Dolor
+
+----
+
+Encabezado4: Sit
+
+----
+
+Encabezado5: Amet

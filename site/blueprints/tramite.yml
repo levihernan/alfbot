@@ -1,0 +1,29 @@
+title: Tramite
+
+pages: section-tramite
+
+files: false
+
+fields:
+  title: kirbytitle
+  
+  titulo:
+    label: Titulo
+    type:  text
+    icon: font
+
+  titular:
+    label: Descripción
+    type: text
+
+  texthtml: texthtml
+
+  nav:
+    label: Navegador
+    type: radio
+    default: sidenav
+    options:
+      sidenav: Navegador a la izquierda
+      textnav: Navegador en el texto
+
+  footer: footertags

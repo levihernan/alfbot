@@ -1,0 +1,23 @@
+title: panelIcono
+
+pages: false
+files: false
+
+options:
+  delete: true
+  template: true
+
+fields:
+  title: kirbytitle
+
+  class: class
+
+  urlicono: imagen
+
+  fontawesome: fontawesome
+
+  bajada: titulo
+
+  description: description
+
+  linkurl: linkurl
